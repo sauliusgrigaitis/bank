@@ -15,7 +15,7 @@ Užduotis:
     g) a), b) ir c) užregistruoti el. paštu saulius taškas grigaitis at mif taškas vu taškas lt iki 2009-10-18
   2) Reikalavimai:
     a) Kodas turi būti rašomas panaudojant OOP principus, Ruby idiomas (pvz. iteratoriai su blokais vietoj ciklų), Ruby vardų taisykles, dviejų tarpų (angl. "space") symbolių indentaciją ir pan.
-    b) Testų rinkinį turi sudaryti bent 50 testų
+    b) Testų rinkinį turi sudaryti bent 50 testų. Bent 40 iš jų turi būti skirta tai konkrečiai dalykinei sričiai, kuriai kuriama sistema. Pvz. vartotojo registraciją turės beveik visos sistemos ir tai nėra dalykinės srities dalis, tad šios sąvybės testai neįeina į tuos bent 40, tuo tarpu pinigų pervedimo iš vienos sąskaitos į kitą saskaitą įeitų į tuos 40. Tai nereiškia, kad kodas, kuris yra nepriklausomas nuo dalykinės srities gali būti netestuotas. Tai reiškia, kad studentas turi sugalvoti kaip galima unikalesnę temą. Todėl tokių sistemų kaip nuoma, pardavimai, užsakymai ir pan. nerekomenduojama rinktis!
     c) Turi būti tikslingai (t.y. ten kur jų tikrai reikia) panaudoti bent 5 palygintojai (angl. "matcher"). Sąrašas http://github.com/dchelimsky/rspec/tree/master/lib/spec/matchers/ , daugiau apie kiekvieną yra dokumentacijoje pačiuose juos aprašančiuose failuose.
     d) Turi būti sukurti ir tikslingai panaudoti bent du savi palygintojai ( http://wiki.github.com/dchelimsky/rspec/custom-matchers )
     e) Esybės aprašomos klasėmis, kiekviena klasė atskirame faile.
