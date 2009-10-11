@@ -1,3 +1,9 @@
-1. "Autobusų parko valdymo sistema". Naudojamos pagrindinės penkios esybės yra: 1) Klientas 2) Transporto priemonė 3) Bilietas 4) Bilietų platinimo taškas 5) Verslo analitikas.
-2. "Kelionų agentūra". 1) Lankymosi vieta, 2) Kelionė, 3) Kelionių katalogas, 4) Vartotojas, 5) Agentūra, 6) Ataskaita
-3. "Muzikos įrašų prekių parduotuvė". 1) muzikinis įrašas/albumas; 2) klientas, 3) parduotuvė, 4) sandėlio valdymas 5) finansai 
+0710293 "Autobusų parko valdymo sistema"
+0610937 "Kelionų agentūra"
+0611021 "Muzikos įrašų prekių parduotuvė"
+0710964 "Elektroninė mainų sistema"
+0710320 "Viešbutis"
+0710388 "Kino Teatras"
+0710285 "Salių nuoma"
+0611043 "Automobilių nuoma"
+
