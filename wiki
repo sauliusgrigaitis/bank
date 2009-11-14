@@ -1,0 +1,13 @@
+RSpec:
+
+sudo gem install rspec rspec-rails
+
+======================
+Rcov:
+
+sudo gem source -a "http://gemcutter.org"
+sudo gem install rcov
+
+tada sukuriate parsisiunčiate http://github.com/sauliusgrigaitis/bank/raw/master/Rakefile į savo projekto direktoriją.
+
+rake examples_with_rcov
