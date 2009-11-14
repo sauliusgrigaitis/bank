@@ -11,5 +11,5 @@ Reikalavimai:
   3) Pasirinkti vieną iš testinių duomenų paruošimo būdų ir pertvarkyti testus, kad jie testiniams duomenims paruošti naudotų tpasirinktą būdą (pvz. Fixtures: http://api.rubyonrails.org/classes/Fixtures.html )
   4) Vartotojo sąsaja šiai užduočiai nereikalinga
   
-
+!!! Užduoties reikalavimai negalutiniai !!!
    
