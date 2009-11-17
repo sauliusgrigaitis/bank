@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'spec'
-require 'account'
+require File.dirname(__FILE__) + '/../app/account.rb'
 
 describe Account do
   it "should allow create new account for user" do
