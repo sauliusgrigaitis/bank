@@ -1,4 +1,4 @@
-class Account
+class Account < ActiveRecord::Base
   attr_reader :name, :surname, :sex, :account_id
   @@id_counter = 0
 

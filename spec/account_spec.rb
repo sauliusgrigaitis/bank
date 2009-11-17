@@ -4,7 +4,7 @@ require File.dirname(__FILE__) + '/../app/account.rb'
 
 describe Account do
   it "should allow create new account for user" do
-    Account.new("Vardenis", "Pavardenis", "vyras").should be_instance_of(Account)
+    Account.new("Vardenis", "Pavardenis", "vyras").should be_kind_of(ActiveRecord)
   end
    
   it "should have account owner name and surname" do
