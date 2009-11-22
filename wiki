@@ -2,6 +2,8 @@ RSpec:
 
 sudo gem install rspec rspec-rails
 
+konfiguracija Rails'ams - http://wiki.github.com/dchelimsky/rspec/configgem-for-rails
+
 ======================
 Rcov:
 
@@ -11,3 +13,9 @@ sudo gem install rcov
 tada parsisiunčiate http://github.com/sauliusgrigaitis/bank/raw/master/Rakefile į savo projekto direktoriją.
 
 rake examples_with_rcov
+=======================
+
+Migracijos testams:
+
+rake db:migrate && rake db:test:prepare
+
