@@ -10,6 +10,11 @@ Reikalavimai:
   2) Turi būti panaudotos "ActiveRecord" sąvybės ten kur jos tinka ( pvz. validatoriai: http://api.rubyonrails.org/classes/ActiveRecord/Validations/ClassMethods.html , asociacijos: http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html ir kt.)
   3) Pasirinkti vieną iš testinių duomenų paruošimo būdų ir pertvarkyti testus, kad jie testiniams duomenims paruošti naudotų tpasirinktą būdą (pvz. Fixtures: http://api.rubyonrails.org/classes/Fixtures.html )
   4) Vartotojo sąsaja šiai užduočiai nereikalinga
+
+Įvertinimas:
+Max 1 balas iki 2010-04-23
+Max 0.5 balo iki 2010-04-30
+Max 0.25 balo iki 2010-05-07
   
 !!! Užduoties reikalavimai negalutiniai !!!
    

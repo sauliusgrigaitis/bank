@@ -12,7 +12,7 @@ Užduotis:
     d) Užduoties tema turi būti pakankamos apimties, minimalus reikalavimas yra 5 esminės esybės. Pvz. jei kuriama bankinė sistema, tai esminės esybės būtų: Sąskaita, Vartotojas, Tranzakcija, Valiuta, PalūkanųNorma.
     e) Bankinės sistemos kurti negalima (ji bus kuriama paskaitų metu kaip mokomoji priemonė) 
     f) Pačios kuriamos sistemos taip pat turi būti unikalios, t.y. pakeitus vienos sistemos esybių pavadinimus gauta sistema nebus skaitoma kaip unikali
-    g) a), b) ir c) užregistruoti el. paštu saulius taškas grigaitis at mif taškas vu taškas lt iki 2009-10-18
+    g) a), b) ir c) užregistruoti el. paštu saulius taškas grigaitis at mif taškas vu taškas lt iki 2010-03-05
   2) Reikalavimai:
     a) Kodas turi būti rašomas panaudojant OOP principus, Ruby idiomas (pvz. iteratoriai su blokais vietoj ciklų), Ruby vardų taisykles, dviejų tarpų (angl. "space") symbolių indentaciją ir pan.
     b) Testų rinkinį turi sudaryti bent 50 testų. Bent 40 iš jų turi būti skirta tai konkrečiai dalykinei sričiai, kuriai kuriama sistema. Pvz. vartotojo registraciją turės beveik visos sistemos ir tai nėra dalykinės srities dalis, tad šios sąvybės testai neįeina į tuos bent 40, tuo tarpu pinigų pervedimo iš vienos sąskaitos į kitą saskaitą įeitų į tuos 40. Tai nereiškia, kad kodas, kuris yra nepriklausomas nuo dalykinės srities gali būti netestuotas. Tai reiškia, kad studentas turi sugalvoti kaip galima unikalesnę temą. Todėl tokių sistemų kaip nuoma, pardavimai, užsakymai ir pan. nerekomenduojama rinktis!
@@ -30,4 +30,10 @@ Užduotis:
     Skiriama po 0.2 balo už 2) skiltyje nurodytų aiškiai pamatuojamų reikalavimų dvigubą įvykdymą, pvz. tikslinis 10 palygintojų panaudojimas
     Papildomi balai skiriami ir už įpatingai gerai atliktas užduotis.
    
+Įvertinimas:
+Max 1 balas iki 2010-04-02
+Max 0.5 balo iki 2010-04-09
+Max 0.25 balo iki 2010-04-16
+
 !!! Užduoties reikalavimai negalutiniai !!!    
+
