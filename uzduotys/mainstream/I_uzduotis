@@ -3,10 +3,10 @@
   b) Turėtų būti bent 10 testų, tiek turi būti testų, kurie tiesiogiai testuoja algoritmo korektiškumą (pvz. testas, kuris testuota ar objektas turi kažkokį metodą, neįeina į tą 10).
   c) Kodas turi būti 100% padengtas testais (pasitikrinti galima įrankiu RCov), jei padengimas yra mažesnis, tai jis turi būti motyvuotas.
   d) Negalima naudoti bibliotekų, kuriose jau realizuotas užduotyje nurodytas algoritmas, t.y. rašote patys.
-  e) Algoritmą siūlote patys.
+  e) Algoritmą siūlote patys, pateikiate trumpą aprašymą apie algoritmą ir jo galimą realizaciją.
   f) Algoritmas turi būti pakankamai sudėtingas, pvz. netinka "Fibancci numbers".
   g) Algoritmas turi būti toks, kuriam reikia pradinių duomenų ir jis turi kažkokius rezultatus, kuriuos atitinkamai būtų galima pakrauti iš failo ir išsaugoti į failą. 
-  h) Vartotojo sąsaja netestuojama ir nevertinama, bet ji turi būti.
+  h) Vartotojo sąsaja netestuojama ir nevertinama, bet ji turi būti. Vartotojo sąsaja turi būti atskirta nuo algoritmo realizacijos, t.y. algoritmo realizacijoje neturi būti vartotojo sąsajos kodo.
 
 Pastabos:
 Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą!
